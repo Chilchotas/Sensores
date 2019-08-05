@@ -1,0 +1,10 @@
+{
+	"Sensor1": [
+		{
+		"id":1,
+		"variable":"Temperatura",
+		"data": 34
+		}
+	]
+}
+	
